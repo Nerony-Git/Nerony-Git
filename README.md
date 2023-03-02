@@ -30,7 +30,7 @@
 ![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
-![Java](https://icons8.com/icon/Pd2x9GWu9ovX/java)
+![Java](https://icons8.com/icon/13679/java.png)
 ![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![R](https://icons8.com/icon/CLvQeiwFpit4/r-project)
