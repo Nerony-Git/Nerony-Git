@@ -31,7 +31,7 @@
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
 ![Java](https://img.icons8.com/color/30/java.png)
-![Android](https://img.icons8.com/color/30/android.png)
+![Android](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ---
 
