@@ -22,6 +22,29 @@
 |Reach me 🥸| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height:30px" />](https://twitter.com/devbebars)|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:30px" />](https://www.linkedin.com/in/mbebars/)|
 |-------|------|-----|
 
+## :wrench: Technologies and tools
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Typescript](https://img.icons8.com/color/30/typescript.png)
+![Node.js](https://img.icons8.com/color/30/nodejs.png)
+![PHP](https://img.icons8.com/color/30/php.png)
+![MySQL](https://img.icons8.com/color/30/mysql.png)
+![WordPress](https://img.icons8.com/color/30/wordpress.png)
+![SASS](https://img.icons8.com/color/30/sass.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
+![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![Suse](https://img.icons8.com/color/30/suse--v1.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![Console](https://img.icons8.com/color/30/console.png)
+![Inkscape](https://img.icons8.com/color/30/inkscape.png)
+---
 
 
 <!---
