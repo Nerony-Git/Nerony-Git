@@ -30,10 +30,10 @@
 ![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
-![Java](https://img.icons8.com/color/30/java.png)
+![Java](https://icons8.com/icon/Pd2x9GWu9ovX/java)
 ![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
-![R](https://img.icons8.com/color/30/r-project.png)
+![R](https://icons8.com/icon/CLvQeiwFpit4/r-project)
 ---
 
 
@@ -52,7 +52,7 @@
 ![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
 ![Gitlab](https://img.icons8.com/color/30/gitlab.png)
 ![Console](https://img.icons8.com/color/30/console.png)
-![Notepad++](https://img.icons8.com/color/30/notepad%2B%2B.png)
+![Notepad++](https://icons8.com/icon/ztKGqjsWmeBH/notepad%2B%2B)
 ---
 
 
