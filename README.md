@@ -31,8 +31,9 @@
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
 ![Java](https://img.icons8.com/color/30/java.png)
-![Android](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png)
+![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
+![R](https://img.icons8.com/color/30/r-project.png)
 ---
 
 
@@ -51,6 +52,7 @@
 ![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
 ![Gitlab](https://img.icons8.com/color/30/gitlab.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+![Notepad++](https://img.icons8.com/color/30/notepad%2B%2B.png)
 ---
 
 
