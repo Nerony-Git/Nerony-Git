@@ -30,10 +30,10 @@
 ![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![MySQL](https://img.icons8.com/color/30/mysql.png)
-![Java](https://icons8.com/icon/13679/java.png)
+![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
 ![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
-![R](https://icons8.com/icon/CLvQeiwFpit4/r-project)
+![R](https://img.icons8.com/fluency/30/null/r-project.png)
 ---
 
 
@@ -41,6 +41,7 @@
 
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![Node.js](https://img.icons8.com/color/30/nodejs.png)
+![Node.js](https://img.icons8.com/color/30/angularjs.png)
 ![WordPress](https://img.icons8.com/color/30/wordpress.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 ![Git](https://img.icons8.com/color/30/git.png)
