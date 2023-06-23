@@ -1,9 +1,9 @@
 - 👋 Hi, I’m George Amuzu
 - 👀 I’m interested in Software Development, Software Engineering
-- 🌱 I’m currently persuing my Master's Degree in Software Engineering
+- 🌱 I’m currently pursuing my Master's Degree in Software Engineering
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me "gnamuzu@gmail.com"
-- 🧔‍♂️ Pronouns: He/HIm
+- 🧔‍♂️ Pronouns: He/Him
 
 ##
 
@@ -19,6 +19,7 @@
 ![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![R](https://img.icons8.com/fluency/30/null/r-project.png)
+![JSP](https://img.icons8.com/material-outlined/30/github.png)
 ---
 
 
