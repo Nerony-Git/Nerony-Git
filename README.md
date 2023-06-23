@@ -19,7 +19,7 @@
 ![Android](https://img.icons8.com/color/30/android-os.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![R](https://img.icons8.com/fluency/30/null/r-project.png)
-![JSP](https://img.icons8.com/material-outlined/30/jsp.png)
+![JSP](https://icons8.com/icon/S6pZTTQeE32p/jsp)
 ---
 
 
