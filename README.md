@@ -62,6 +62,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
   <img src="https://img.icons8.com/color/30/jsp.png" title="JSP" alt="JSP" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/> &nbsp;
 </div>
 
 ### 🌐 Frameworks
@@ -82,6 +83,16 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> &nbsp;
   <img src="https://ryanswebdesign.com.au/wp-content/uploads/2018/06/servlets_350.png" title="Java Servlet" alt="Java Servlet" width="40" height="40"/> &nbsp;
 </div>
+---
+
+
+## 🏬 Database
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgrSQL" alt="postgreSQL" width="40" height="40"/> &nbsp;
+</div>
+---
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
