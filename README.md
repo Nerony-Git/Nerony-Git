@@ -63,6 +63,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
   <img src="https://img.icons8.com/color/30/jsp.png" title="JSP" alt="JSP" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/> &nbsp;
 </div>
 
 ### 🌐 Frameworks
@@ -90,49 +91,54 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgrSQL" alt="postgreSQL" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/> &nbsp;
 </div>
 ---
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![Typescript](https://img.icons8.com/color/30/typescript.png)
-![PHP](https://img.icons8.com/color/30/php.png)
-![MySQL](https://img.icons8.com/color/30/mysql.png)
-![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
-![Android](https://img.icons8.com/color/30/android-os.png)
-![Python](https://img.icons8.com/color/30/python.png)
-![R](https://img.icons8.com/fluency/30/null/r-project.png)
-![JSP](https://img.icons8.com/color/30/jsp.png)
+
+## 🎛️ Version Control
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="40" height="40"/> &nbsp;
+</div>
 ---
 
 
-## :wrench: Technologies / Frameworks.
+## DevOps
 
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![Node.js](https://img.icons8.com/color/30/nodejs.png)
-![Node.js](https://img.icons8.com/color/30/angularjs.png)
-![WordPress](https://img.icons8.com/color/30/wordpress.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
-![Git](https://img.icons8.com/color/30/git.png)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
+</div>
+---
+
+
+## :wrench: CMS.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/> &nbsp;
 ---
 
 ## 🧪 Testing Frameworks.
 
-![Selenium](https://icons8.com/icon/38553/selenium)
-![JUnit]()
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> &nbsp;
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Download_JUnit.png" title="JUnit" alt="JUnit" width="40" height="40"/> &nbsp;
+</div>
 ---
 
-## 🛠️ Tools.
+## 🛠️  Development Tools.
 
-![Github](https://img.icons8.com/material-outlined/30/github.png)
-![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)
-![Gitlab](https://img.icons8.com/color/30/gitlab.png)
-![Console](https://img.icons8.com/color/30/console.png)
-![Notepad++](https://img.icons8.com/color/30/notepad-plus-plus.png)
-![Visual Studio Code](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-![Azure](https://img.icons8.com/color/30/azure-1.png)
+<img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/> &nbsp;
+<img src="https://th.bing.com/th/id/OIP.pIi0CfGswG8JLy2f1w6dLQHaHa?pid=ImgDet&rs=1" title="PyCharm" alt="PyCharm" width="40" height="40"/> &nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/> &nbsp;
+<img src="https://th.bing.com/th/id/R.659decac6f484c62e88f8949cae359e4?rik=Fq3SQO9dyzXJBw&riu=http%3a%2f%2fp5.storage.canalblog.com%2f58%2f18%2f205522%2f58586190.png&ehk=0rFoFmd0zAB7M19bkz%2fbxoTHi9uW29yhHpfz%2fich2IM%3d&risl=&pid=ImgRaw&r=0" title="notepad++" alt="notepad++" width="40" height="40"/> &nbsp;
+<img src="https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" title="Git Bash" alt="Git Bash" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/> &nbsp;
 
 ---
 
