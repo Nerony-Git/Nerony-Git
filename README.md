@@ -45,6 +45,12 @@
 
 ---
 
+## 🧪 Testing Frameworks.
+
+![Selenium](https://icons8.com/icon/TLI9oiMzpREF/selenium)
+![JUnit](https://1.bp.blogspot.com/-xgHQMZyOny0/XwPODRDlOgI/AAAAAAAAPtU/nCkJ4W2JivIpNXXvHbb8v33qVZhCRmBcwCK4BGAsYHg/w1200-h630-p-k-no-nu/junit5.jpeg)
+
+---
 
 <!---
 Nerony-Git/Nerony-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
