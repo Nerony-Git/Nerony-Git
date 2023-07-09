@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m George Amuzu
 - 👀 I’m interested in Software Development, Software Engineering
 - 🌱 I’m currently pursuing my Master's Degree in Software Engineering
@@ -33,6 +37,12 @@
 ![Git](https://img.icons8.com/color/30/git.png)
 ---
 
+## 🧪 Testing Frameworks.
+
+![Selenium](https://icons8.com/icon/38553/selenium)
+![JUnit]()
+---
+
 ## 🛠️ Tools.
 
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
@@ -45,12 +55,6 @@
 
 ---
 
-## 🧪 Testing Frameworks.
-
-![Selenium](https://icons8.com/icon/TLI9oiMzpREF/selenium.png)
-![JUnit]()
-
----
 
 <!---
 Nerony-Git/Nerony-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
