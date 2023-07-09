@@ -37,7 +37,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 - 🌱 I’m currently pursuing my Master's Degree in Software Engineering
 - 💞️ I’m looking to collaborate on challenging projects.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/), "gnamuzu@gmail.com"
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/), [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:gnamuzu@gmail.com)
 - 🧔‍♂️ Pronouns: He/Him
 
 ##
