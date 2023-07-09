@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/george-amuzu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:gnamuzu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -37,7 +40,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 - 🌱 I’m currently pursuing my Master's Degree in Software Engineering
 - 💞️ I’m looking to collaborate on challenging projects.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/), [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:gnamuzu@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/), [![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gnamuzu@gmail.com)
 - 🧔‍♂️ Pronouns: He/Him
 
 ##
