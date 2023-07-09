@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -25,7 +25,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpzNHNnZmk0cnF2ajNtenJsaTh1ZzNoNnEyb2lsaWlzaWVzNmIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 
+### :man_technologist: About me
 
 - 👋 Hi, I’m George Amuzu
 - 👀 I’m interested in Software Development, Software Engineering
