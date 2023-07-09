@@ -22,7 +22,9 @@
   </h1>
 </div>
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpzNHNnZmk0cnF2ajNtenJsaTh1ZzNoNnEyb2lsaWlzaWVzNmIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 - 👋 Hi, I’m George Amuzu
