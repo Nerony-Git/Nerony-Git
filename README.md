@@ -69,6 +69,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerony-Git&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerony-Git&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 
 ---
