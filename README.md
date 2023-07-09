@@ -30,7 +30,7 @@
 
 
 ## :man_technologist: About me :
-I am a resourceful, result-oriented, highly motivated, and experienced Software Engineer with a focus on building robust and scalable applications. With a strong background in software development and a dedication to continuous learning, I strive to create elegant solutions to complex problems. 
+I am a resourceful, result-oriented, highly motivated, and experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on building robust and scalable applications. With a strong background in software development and a dedication to continuous learning, I strive to create elegant solutions to complex problems. 
 
 - 👋 Hi, I’m George Amuzu
 - 👀 I’m interested in Software Development, Software Engineering
