@@ -53,6 +53,16 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 </div>
 
 ##
+| 🧑‍💻 Programming Languages | 🌍 Web Development |
+| --- | --- |
+| ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) | ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) |
+| ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) | ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) |
+| ![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |
+| | ![JSP](https://img.icons8.com/color/30/jsp.png) |
+| | ![jQuery](https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg) |
+| | ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg) |
+| | ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) |
+| | ![Angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg) |
 
 
 ## 🌍 Web Development
