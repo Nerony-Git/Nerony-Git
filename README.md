@@ -32,11 +32,12 @@
 ## :man_technologist: About me :
 I am a resourceful, result-oriented, highly motivated, and experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on building robust and scalable applications. With a strong background in software development and a dedication to continuous learning, I strive to create elegant solutions to complex problems. 
 
-- 👋 Hi, I’m George Amuzu
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 👀 I’m interested in Software Development, Software Engineering
 - 🌱 I’m currently pursuing my Master's Degree in Software Engineering
 - 💞️ I’m looking to collaborate on challenging projects.
-- 📫 How to reach me "gnamuzu@gmail.com"
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me "gnamuzu@gmail.com" [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/)
 - 🧔‍♂️ Pronouns: He/Him
 
 ##
