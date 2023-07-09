@@ -55,50 +55,15 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 ## 🏬 Database: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/> &nbsp;
 
-## 🎛️ Version Control
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://img.icons8.com/material-outlined/30/github.png" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="40" height="40"/> &nbsp;
-</div>
+## 🎛️ Version Control: <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp; <img src="https://img.icons8.com/material-outlined/30/github.png" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="40" height="40"/> &nbsp;
 
----
+## DevOps: <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
 
-## DevOps
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
-</div>
+## :wrench: CMS: <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/> &nbsp;
 
----
+## 🧪 Testing Frameworks: <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> &nbsp; <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Download_JUnit.png" title="JUnit" alt="JUnit" width="40" height="40"/>
 
-## :wrench: CMS.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/> &nbsp;
-</div>
-
----
-
-## 🧪 Testing Frameworks.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> &nbsp;
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Download_JUnit.png" title="JUnit" alt="JUnit" width="40" height="40"/>
-</div>
-
----
-
-## 🛠️  Development Tools.
-<div>
-    <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/> &nbsp;
-  <img src="https://th.bing.com/th/id/OIP.pIi0CfGswG8JLy2f1w6dLQHaHa?pid=ImgDet&rs=1" title="PyCharm" alt="PyCharm" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/> &nbsp;
-  <img src="https://th.bing.com/th/id/R.659decac6f484c62e88f8949cae359e4?rik=Fq3SQO9dyzXJBw&riu=http%3a%2f%2fp5.storage.canalblog.com%2f58%2f18%2f205522%2f58586190.png&ehk=0rFoFmd0zAB7M19bkz%2fbxoTHi9uW29yhHpfz%2fich2IM%3d&risl=&pid=ImgRaw&r=0" title="notepad++" alt="notepad++" width="40" height="40"/> &nbsp;
-  <img src="https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" title="Git Bash" alt="Git Bash" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>
-</div>
+## 🛠️  Development Tools: <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/> &nbsp; <img src="https://th.bing.com/th/id/OIP.pIi0CfGswG8JLy2f1w6dLQHaHa?pid=ImgDet&rs=1" title="PyCharm" alt="PyCharm" width="40" height="40"/> &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/> &nbsp; <img src="https://th.bing.com/th/id/R.659decac6f484c62e88f8949cae359e4?rik=Fq3SQO9dyzXJBw&riu=http%3a%2f%2fp5.storage.canalblog.com%2f58%2f18%2f205522%2f58586190.png&ehk=0rFoFmd0zAB7M19bkz%2fbxoTHi9uW29yhHpfz%2fich2IM%3d&risl=&pid=ImgRaw&r=0" title="notepad++" alt="notepad++" width="40" height="40"/> &nbsp; <img src="https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" title="Git Bash" alt="Git Bash" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>
 
 ---
 
