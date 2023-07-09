@@ -25,9 +25,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpzNHNnZmk0cnF2ajNtenJsaTh1ZzNoNnEyb2lsaWlzaWVzNmIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
-### :man_technologist: About me
+
+## :man_technologist: About me :
+I am a resourceful, result-oriented, highly motivated, and experienced Software Engineer with a focus on building robust and scalable applications. With a strong background in software development and a dedication to continuous learning, I strive to create elegant solutions to complex problems. 
 
 - 👋 Hi, I’m George Amuzu
 - 👀 I’m interested in Software Development, Software Engineering
