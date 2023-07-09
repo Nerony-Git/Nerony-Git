@@ -45,6 +45,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 ---
 
+| ## 🧑‍💻 Programming Languages | 🌍 **Web Development** | 🩻 **Backend Development** | 🏬 **Database** | 🎛️ **Version Control** | **DevOps** | :wrench: **CMS** | 🧪 **Testing Frameworks** | 🛠️  **Development Tools**
 
 ## 🧑‍💻 Programming Languages
 <div>
