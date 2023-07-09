@@ -43,7 +43,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-amuzu/), [![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gnamuzu@gmail.com)
 - 🧔‍♂️ Pronouns: He/Him
 
-##
+---
 
 ## 🧑‍💻 Programming Languages
 
@@ -53,7 +53,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> &nbsp;
 </div>
 
----
+##
 
 
 ## 🌍 Web Development
