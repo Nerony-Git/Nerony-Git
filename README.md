@@ -83,32 +83,30 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> &nbsp;
   <img src="https://ryanswebdesign.com.au/wp-content/uploads/2018/06/servlets_350.png" title="Java Servlet" alt="Java Servlet" width="40" height="40"/> &nbsp;
 </div>
+
 ##
 
 
 ## 🏬 Database
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/> &nbsp;
 </div>
 
----
+##
 
 
 ## 🎛️ Version Control
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp;
   <img src="https://img.icons8.com/material-outlined/30/github.png" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="40" height="40"/> &nbsp;
 </div>
 
----
+##
 
 
 ## DevOps
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
@@ -116,27 +114,25 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/> &nbsp;
 </div>
 
----
+##
 
 
 ## :wrench: CMS.
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/> &nbsp;
 </div>
 
----
+##
 
 ## 🧪 Testing Frameworks.
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> &nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Download_JUnit.png" title="JUnit" alt="JUnit" width="40" height="40"/>
 </div>
----
+
+##
 
 ## 🛠️  Development Tools.
-
 <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/> &nbsp;
 <img src="https://th.bing.com/th/id/OIP.pIi0CfGswG8JLy2f1w6dLQHaHa?pid=ImgDet&rs=1" title="PyCharm" alt="PyCharm" width="40" height="40"/> &nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/> &nbsp;
