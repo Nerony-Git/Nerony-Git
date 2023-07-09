@@ -67,6 +67,11 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 ---
 
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nerony-Git&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
 
 <!---
 Nerony-Git/Nerony-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
