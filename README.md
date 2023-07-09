@@ -100,7 +100,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/material-outlined/30/github.png" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="40" height="40"/> &nbsp;
 </div>
 ---
