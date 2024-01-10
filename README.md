@@ -67,8 +67,7 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 ---
 
 ## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-gamma-olive.vercel.app?user=Nerony-Git&theme=dark)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerony-Git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerony-Git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
