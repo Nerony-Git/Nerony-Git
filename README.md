@@ -25,6 +25,7 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=28F717&center=true&vCenter=true&random=false&width=750&height=45&lines=Software+Engineer+%7C+Full-Stack+Web+%26+App+Developer;Experienced+UI%2FUX+Designer;7%2B+years+of+coding+experience;Always+learning+new+things" />
 </div>
 
 
