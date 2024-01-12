@@ -46,24 +46,99 @@ I am a resourceful, result-oriented, highly motivated, and experienced Software 
 ---
 
 
-### 🧑‍💻 Programming Languages: <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="30" height="30"/> &nbsp;
+### 🧑‍💻 Programming Languages: 
+<p>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
 
-### 🌍 Web Development: <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/> &nbsp; <img src="https://img.icons8.com/color/30/jsp.png" title="JSP" alt="JSP" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="30" height="30"/> &nbsp;
-- #### 🌐 Frameworks: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="30" height="30"/> &nbsp;
+### 🌐 Frameworks and Libraries: 
+<p>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Abootstrap"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Aexpress"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajavascript"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajavascript"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajquery"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
+  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3A"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="ES Lint" src="https://img.shields.io/badge/eslint-3A33D1?logo=eslint&logoColor=white"></a>
+  <a href="#"><img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E"></a>
+  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajavascript"><img alt="Angular JS" src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white"></a>
+</p>
 
-### 🩻 Backend Development: <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="30" height="30"/> &nbsp; <img src="https://ryanswebdesign.com.au/wp-content/uploads/2018/06/servlets_350.png" title="Java Servlet" alt="Java Servlet" width="30" height="30"/> &nbsp;
+### 🩻 Backend Development: 
+<p>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ANerony-Git+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</p>
 
-### 🏬 Database: <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL" alt="postgreSQL" width="30" height="30"/> &nbsp;
+### 🏬 Database: 
+<p>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white"></a>
+</p>
 
-### 🎛️ Version Control: <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/> &nbsp; <img src="https://img.icons8.com/material-outlined/30/github.png" title="GitHub" alt="GitHub" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitBucket" alt="bitBucket" width="30" height="30"/> &nbsp;
+### 🎛️ Version Control: 
+<p>
+  <a href="#"><img alt="git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-0747a6?logo=bitbucket&logoColor=white"></a>
+</p>
 
-### 🛫 DevOps: <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="30" height="30"/> &nbsp;
+### 🛫 DevOps: 
+<p>
+  <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"></a>
+  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"></a>
+  <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
+  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"></a>
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"></a>
+</p>
 
-### :wrench: CMS: <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="30" height="30"/> &nbsp;
+### :wrench: CMS: 
+<p>
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+</p>
 
-### 🧪 Testing Frameworks: <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="30" height="30"/> &nbsp; <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Download_JUnit.png" title="JUnit" alt="JUnit" width="30" height="30"/>
+### 🧪 Testing Frameworks: 
+<p>
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"></a>
+  <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+</p>
 
-### 🛠️  Development Tools: <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="30" height="30"/> &nbsp; <img src="https://th.bing.com/th/id/OIP.pIi0CfGswG8JLy2f1w6dLQHaHa?pid=ImgDet&rs=1" title="PyCharm" alt="PyCharm" width="30" height="30"/> &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/> &nbsp; <img src="https://th.bing.com/th/id/R.659decac6f484c62e88f8949cae359e4?rik=Fq3SQO9dyzXJBw&riu=http%3a%2f%2fp5.storage.canalblog.com%2f58%2f18%2f205522%2f58586190.png&ehk=0rFoFmd0zAB7M19bkz%2fbxoTHi9uW29yhHpfz%2fich2IM%3d&risl=&pid=ImgRaw&r=0" title="notepad++" alt="notepad++" width="30" height="30"/> &nbsp; <img src="https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" title="Git Bash" alt="Git Bash" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="30" height="30"/> &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="30" height="30"/>
+### 🛠️  Development Tools: 
+<p>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white"></a>
+  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
+  <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"></a>
+  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white"></a>
+  <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
+  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black"></a>
+  <a href="#"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?logo=Adobe%20Dreamweaver&logoColor=34F400"></a>
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+  <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?logo=apache%20netbeans%20IDE&logoColor=white"></a>
+  <a href="#"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white"></a>
+</p>
+
+### 🧑‍💻 OS:
+<p>
+  <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+  <a href="#"><img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+</p>
 
 ---
 
